@@ -2,7 +2,7 @@ package Dec.ex_192024.ex_08_if_condition;
 
 import java.util.Scanner;
 
-public class Lab_87_if_else_ElseIf {
+public class Lab_87_if_else_ElseIf_Greaterno {
 
     public static void main(String[] args) {
 
