@@ -11,7 +11,7 @@ public class ex_eligibaltoVote {
         System.out.println("Enter your age");
         int voter = sc.nextInt();
 
-        if(voter > 18){
+        if(voter >= 18){
 
             System.out.println("you are allowed to vote");
         }else {
